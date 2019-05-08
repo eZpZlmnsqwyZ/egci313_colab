@@ -11,6 +11,11 @@ int main(void){
 	printf("irt;hnsrtihnurtohrtihnt");
 	
 	printf("testt");
+<<<<<<< HEAD
 	printf("please don't destroy me while merging pls")
+=======
+	printf("Waiting for merge");
+	printf("...");
+>>>>>>> refs/remotes/t1/master
 	return 0; 	
 }
