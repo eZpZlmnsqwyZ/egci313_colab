@@ -8,5 +8,6 @@ int main(void){
 	printf("x");
 	printf("irt;hnsrtihnurtohrtihnt");
 	printf("testt");
+	printf("Waiting for merge");
 	return 0; 	
 }
