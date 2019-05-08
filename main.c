@@ -9,5 +9,6 @@ int main(void){
 	printf("hi this one's the master");
 	printf("irt;hnsrtihnurtohrtihnt");
 	printf("testt");
+	printf("please don't destroy me while merging pls")
 	return 0; 	
 }
