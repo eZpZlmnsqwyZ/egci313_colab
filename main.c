@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
+#include <fcntl.h>
+#include <sys/uio.h>
 
 int main(void){
 	pritnf("erghiotjdfirthjunftyhh\n");
