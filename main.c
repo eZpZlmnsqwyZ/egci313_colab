@@ -6,11 +6,8 @@
 int main(void){
 	pritnf("kuy fill");
 	printf("kuy rai sus");
-<<<<<<< HEAD
 	printf("hi this one's the master");
-=======
 	printf("this is a new branch!");
->>>>>>> b1
 	printf("irt;hnsrtihnurtohrtihnt");
 	printf("testt");
 	printf("please don't destroy me while merging pls")
