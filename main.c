@@ -4,6 +4,7 @@
 #include <sys/uio.h>
 
 int main(void){
+	pritnf("kuy fill");
 	printf("kuy rai sus");
 	printf("x");
 	printf("irt;hnsrtihnurtohrtihnt");
