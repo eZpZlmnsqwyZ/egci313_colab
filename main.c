@@ -5,6 +5,7 @@
 
 int main(void){
 	printf("kuy rai sus");
+	printf("x");
 	printf("irt;hnsrtihnurtohrtihnt");
 	printf("testt");
 	return 0; 	
