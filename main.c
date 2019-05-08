@@ -10,5 +10,6 @@ int main(void){
 	printf("irt;hnsrtihnurtohrtihnt");
 	printf("testt");
 	printf("Waiting for merge");
+	printf("...");
 	return 0; 	
 }
