@@ -6,7 +6,7 @@
 int main(void){
 	pritnf("kuy fill");
 	printf("kuy rai sus");
-	printf("x");
+	printf("xdjkltydh ");
 	printf("irt;hnsrtihnurtohrtihnt");
 	printf("testt");
 	return 0; 	
